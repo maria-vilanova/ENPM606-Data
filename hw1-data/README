@@ -1,0 +1,3 @@
+
+wget -r -np -nd -A '*' http://stat.columbia.edu/~rachel/datasets/
+
